@@ -1,0 +1,17 @@
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Persistance.deps.json
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Persistance.runtimeconfig.json
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Persistance.dll
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Persistance.pdb
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Domain.dll
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/bin/Debug/net9.0/MovieApi.Domain.pdb
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.csproj.AssemblyReference.cache
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.AssemblyInfoInputs.cache
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.AssemblyInfo.cs
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.csproj.CoreCompileInputs.cache
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.71804FD7.Up2Date
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.dll
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/refint/MovieApi.Persistance.dll
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.pdb
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/MovieApi.Persistance.genruntimeconfig.cache
+/Users/yagmuraslan/Desktop/MovieApi/Infrastructure/MovieApi.Persistance/obj/Debug/net9.0/ref/MovieApi.Persistance.dll

@@ -1,0 +1,11 @@
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/bin/Debug/net9.0/MovieApi.Domain.deps.json
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/bin/Debug/net9.0/MovieApi.Domain.dll
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/bin/Debug/net9.0/MovieApi.Domain.pdb
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.AssemblyInfoInputs.cache
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.AssemblyInfo.cs
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.csproj.CoreCompileInputs.cache
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.dll
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/refint/MovieApi.Domain.dll
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.pdb
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/ref/MovieApi.Domain.dll
