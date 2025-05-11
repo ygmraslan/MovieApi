@@ -9,3 +9,4 @@
 /Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/refint/MovieApi.Domain.dll
 /Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.pdb
 /Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/ref/MovieApi.Domain.dll
+/Users/yagmuraslan/Desktop/MovieApi/Core/MovieApi.Domain/obj/Debug/net9.0/MovieApi.Domain.sourcelink.json

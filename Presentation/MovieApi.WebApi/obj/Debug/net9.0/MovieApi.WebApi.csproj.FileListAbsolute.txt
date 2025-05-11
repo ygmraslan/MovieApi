@@ -170,3 +170,6 @@
 /Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/obj/Debug/net9.0/MovieApi.WebApi.sourcelink.json
+/Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/bin/Debug/net9.0/MediatR.dll
+/Users/yagmuraslan/Desktop/MovieApi/Presentation/MovieApi.WebApi/bin/Debug/net9.0/MediatR.Contracts.dll
